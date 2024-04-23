@@ -1,4 +1,4 @@
-# [Moroccan Vibes - Travel Agency Web Template](https://achrafikhlef.github.io/moroccan_vibes/)
+# [Moroccan Vibes - Travel Agency Web Template](https://achrafikhlef.github.io/Moroccan_Vibes/)
 
 Embark on a journey with "Moroccan Vibes," a captivating travel agency web template designed to showcase the beauty and cultural richness of Morocco. Crafted with care, this repository offers high-quality, customizable templates that bring the essence of Morocco to your digital projects. Immerse your audience in the unique charm of Morocco and create an unforgettable online experience.
 
